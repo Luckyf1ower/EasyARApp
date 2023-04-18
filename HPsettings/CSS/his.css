@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    background-color:cadetblue;
+    color: azure;
+    width: 380px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div.headline{
+    background-color: seashell;
+    color: dimgrey;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+
+div.text{
+    background-color: azure;
+    font-size: 36px;
+    color:cadetblue;
+}
+
+#text-button {
+    display: block;
+    cursor: pointer;
+    width: 160px;
+    text-align: center;
+    border: 1px solid #232323;
+}
